@@ -1,0 +1,330 @@
+{
+  "1": {
+    "pregunta": "問1.",
+    "opciones": {
+      "b": "420,000 円×�/�×1.05＋15,000 円＋10,000 円 c. 525,000 円×�/�×1.05＋15,000 円＋10,000 円",
+      "d": "565,000 円×�/�×1.05＋15,000 円＋10,000 円"
+    }
+  },
+  "2": {
+    "pregunta": "問2.",
+    "opciones": {
+      "b": "366,000 円×�/� c. 545,000 円×�/�",
+      "d": "561,000 円×�/�"
+    }
+  },
+  "3": {
+    "pregunta": "問3.",
+    "opciones": {
+      "b": "30SEP24 OSA JL X/TYO JL LON Q150.00S100.00BA ATH5M1942.50QR DOH JL X/TYO JL SHM M2725.00NUC4917.50END ROE100.000000 c. 30SEP24 OSA JL X/TYO JL LON Q150.00S100.00BA ATH5M2966.25QR DOH JL X/TYO JL SHM M1830.00NUC5046.25END ROE100.000000",
+      "d": "30SEP24 OSA JL X/TYO JL LON Q150.00S100.00BA ATH5M2205.00QR DOH JL X/TYO JL SHM M2805.00NUC5260.00END ROE100.000000"
+    }
+  },
+  "4": {
+    "pregunta": "問4.",
+    "opciones": {
+      "b": "この航空券を 2024 年�月�日（木）に発券後、旅客の都合により旅行を中止し、2024 年� 月 19 日（木）に全旅程の取り消し連絡を行い、予約発券した旅行会社を通じて払い戻し手 続きをする場合、取消手数料 30,000 円を支払い、残額が払い戻される。 c. この航空券を 2024 年 10 月�日（水）に旅客の都合により、TYO−SHM 間 JL0215 便を 2024 年 10 月 13 日（日）の同一便・同一クラスに変更を希望する場合、変更手数料 20,000 円を支払うことにより予約変更が可能である。 22 第�問 下記の適用条件に基づき、資料編を参照のうえ、以下の問 5.〜問 7.の各設問について、該 当するものをそれぞれの選択肢から一つ選び、問 8.の設問について、該当するものを選択 肢からすべて選び、解答用紙にマークしなさい。 （掲載している運航便、運賃・規則表は、2024 年�月 20 日現在有効なものを使用している。） （配点 �点×�） 運賃計算上の留意点 ・途中降機料金(S)及び Q サーチャージが必要な設問については、計算式に含めること。 適用条件 1．旅程： 発 着 TOKYO(TYO)−VANCOUVER(YVR) NH0116 16SEP(月) 21：55 14：50 VANCOUVER(YVR)−DENVER(DEN) UA2216 19SEP(木) 10：53 14：46 DENVER(DEN)−CHICAGO(CHI) UA2312 23SEP(月) 11：20 14：55 CHICAGO(CHI)−HOUSTON(HOU) UA0691 26SEP(木) 08：45 11：35 HOUSTON(HOU)−TOKYO(TYO) NH0113 29SEP(日) 11：35 15：25+1 2．クラス・人員： プレミアム エコノミークラス及びエコノミークラス・大人�名 3．適用運賃： NH プレミアム エコノミークラス特別運賃 Special Plus E NH エコノミークラス特別運賃 Special U 4．運賃・規則： 資料編参照（資料2．及び資料3．） 5．運賃計算上の折り返し地点： 設問の都合上、伏せてある。 6．各区間の TPM と MPM： ・各区間 TPM TYO−4681(PA)−YVR−1107−DEN−903−CHI−933−HOU−6658(PA) −TYO ・MPM TYO−YVR 5617(PA) TYO−DEN 6945(PA) TYO−CHI 7539(PA) TYO−HOU 7989(PA) 7．航空券の予約完了日・発券日： 2024 年�月�日（水） 8．航空券の発券・販売： 日本 9．その他： 運賃は、本来 NUC 額にて算出するが、計算簡素化のため円貨額にて算出す るものとする。 （参考） 各区間の TPM の合計： TYO−YVR−DEN 5788 TYO−YVR−DEN−CHI 6691 TYO−YVR−DEN−CHI−HOU 7624 TYO−HOU−CHI−DEN−YVR 9601 TYO−HOU−CHI−DEN 8494 TYO−HOU−CHI 7591 23"
+    }
+  },
+  "5": {
+    "pregunta": "問5.",
+    "opciones": {
+      "b": "DEN c. CHI",
+      "d": "HOU"
+    }
+  },
+  "6": {
+    "pregunta": "問6.",
+    "opciones": {
+      "b": "347,000 円×�/� c. 367,000 円×�/�",
+      "d": "375,000 円×�/�"
+    }
+  },
+  "7": {
+    "pregunta": "問7.",
+    "opciones": {
+      "b": "421,000 円×�/�＋7,500 円 c. 411,000 円×�/�×1.05＋7,500 円",
+      "d": "421,000 円×�/�×1.05＋7,500 円"
+    }
+  },
+  "8": {
+    "pregunta": "問8.",
+    "opciones": {
+      "b": "この航空券を 2024 年�月 20 日（金）に旅客の都合により、DEN−CHI 間 UA2312 便を 2024 年�月 24 日（火）の同一便、同一クラスに変更する場合、変更手数料 20,000 円を支 払うことにより予約変更が可能である。 c. 最長旅行期間の規則に基づき、最も長い旅行期間を手配する場合、HOU−TYO 間 NH0113 便の旅行開始日は 2025 年�月 16 日（火）である。 24 第�問 数次往復用一般旅券（以下、旅券という。）に関し、以下の問 9.〜問 10.の各設問について、 該当するものをそれぞれの選択肢から一つ選び、問 11.〜問 12.の各設問について、該当す るものをそれぞれの選択肢からすべて選び、解答用紙にマークしなさい。（旅券の発給申請 又は届出をするに当たり、急を要し、かつ、都道府県知事又は外務大臣がその必要を認める とき及び戸籍に記載される前の者が旅券の発給を申請する場合を除く。） （配点 �点×�）"
+    }
+  },
+  "9": {
+    "pregunta": "問9.",
+    "opciones": {
+      "b": "書面手続により旅券の発給を申請するに当たり、申請者の指定した者（当該申請者の配偶者 又は�親等内の親族を除く。）が出頭しようとする場合、当該申請者の指定した者は、当該 申請前�年以内に旅券の発給を受けるに当たって不正な行為をした者であってはならない。 c. 旅券の発給を受けようとする者で、身体の故障により署名することが困難な者である場合、 当該発給申請者の法定代理人若しくは配偶者、又は発給申請者の海外渡航に同行を予定して いる者のいずれかが、当該発給申請者の記名を行うことにより署名に代えることができる が、その順位は定められていない。",
+      "d": "旅券を焼失した場合、当該旅券の名義人が病気により出頭が困難であると認められるとき、 書面手続により当該旅券の名義人に代わり焼失の届出を行うことができる者は、当該旅券の 名義人の配偶者又は�親等内の親族に限られる。"
+    }
+  },
+  "10": {
+    "pregunta": "問10. 次の記述のうち、誤っているものはどれか。",
+    "opciones": {
+      "b": "旅券の発給を申請するにあたり、提出する申請者の写真は、提出の日前�か月以内に撮影さ れたものでなければならない。 c. 旅券の名義人が外国に住所又は居所を定めて�か月以上滞在しようとするときは、遅滞な く、当該住所又は居所を管轄する領事官（当該住所又は居所を管轄する領事官がいない場合 には、最寄りの領事官）に対し、書面手続又は電子手続により届け出なければならない。",
+      "d": "外務大臣又は領事官は、外国にある日本国民のうち旅券法の規定による旅券の返納の命令に 基づいて旅券を返納した者で、本邦に帰国することを希望する者に対し、その者の申請に基 づいて、必要があると認める場合には、旅券に代えて渡航書を発給することができる。 25"
+    }
+  },
+  "11": {
+    "pregunta": "問11. 次の記述のうち、正しいものをすべて選びなさい。",
+    "opciones": {
+      "b": "有効な旅券を返納して新たな旅券を申請する場合に、返納された当該有効な旅券にあって は、返納したときに当該旅券は失効する。 c. 国内において発行された旅券については、旅券の発給を申請した者が、当該旅券の発行の日 から�か月以内に当該旅券を受領せず、その�か月を経過したときに当該旅券は失効する。"
+    }
+  },
+  "12": {
+    "pregunta": "問12. 次のうち、旅券の発給を申請するにあたり、申請者が本人であることを確認するために都道",
+    "opciones": {
+      "b": "印鑑登録証明書及び実印のみ c. 後期高齢者医療被保険者証を�点のみ 26 第�問 以下の問 13.〜問 16.の各設問について、該当するものをそれぞれの選択肢からすべて選び、 解答用紙にマークしなさい。 （配点 �点×�）"
+    }
+  },
+  "13": {
+    "pregunta": "問13. 本邦に在留する外国人（仮上陸の許可又は上陸の特例により上陸の許可を受けている者を除",
+    "opciones": {
+      "b": "有効な旅券及び在留カードを所持した中長期在留者で、入国審査官に対し、再び入国する意 図を表明して出国するときのみなし再入国の許可の有効期間は、出国の日から�年（在留期 間の満了の日が出国の日から�年を経過する日前に到来する場合には、在留期間の満了まで の期間）である。 c. 特別永住者に関し、再入国の許可（みなし再入国の許可を除く。）の有効期間（有効期間の 延長の許可を除く。）は、許可の効力が生じるとされる日から一定の期間を超えない範囲内 で決定されるが、その一定の期間とは�年である。 27"
+    }
+  },
+  "14": {
+    "pregunta": "問14. 20 歳以上の日本人旅行者が、フランスで購入した物品の本邦の通関に関する次の記述のう",
+    "opciones": {
+      "b": "海外市価が�万円のワイン（760 ml）�本、�万円のウォッカ（760 ml）�本のみを輸入す る場合、海外市価が安価なウォッカ�本のみに課税される。 c. 海外市価が 12 万円の腕時計�個、10 万円のジャケット�着のみを輸入する場合、申告価格 は 22 万円となり、ジャケット�着が課税される。"
+    }
+  },
+  "15": {
+    "pregunta": "問15. 日本人旅行者の本邦の通関に関する次の記述のうち、正しいものをすべて選びなさい。",
+    "opciones": {
+      "b": "帰国時に旅具通関扱いとするための所定の申告をした別送品について、税関長がやむを得な い特別の事由があると認める場合を除き、入国後�か月以内に当該別送品を輸入しなければ ならない。 c. 19 歳の旅行者が両親へのお土産として購入した海外市価�万円のワイン�本（760 ml）の みを輸入する場合、免税が適用されない。"
+    }
+  },
+  "16": {
+    "pregunta": "問16. 日本人旅行者が個人的使用のため、帰国時に携帯して輸入する次の物品のうち、検疫を受け",
+    "opciones": {
+      "b": "中国で購入した乾燥したウーロン茶の茶葉 c. ドイツで購入した豚肉ソーセージの缶詰 28 第�問 次の英文は英国のバッキンガム宮殿に関するインターネット上の案内（抜粋）である。これ を読み、以下の問 17.から問 19.の各設問について、該当するものをそれぞれの選択肢から 一つ選び、問 20.の設問について、該当するものを選択肢からすべて選び、解答用紙にマー クしなさい。 （配点 �点×�） Visit Buckingham Palace Explore the magnificent State Rooms＊ which are open to visitors each summer, and on selected dates for Exclusive Guided Tours and Family Guided Tours during winter and spring. Summer Opening of Buckingham Palace ・The summer opening of Buckingham Palace this year is 11 July to 29 September. ・Book in advance for the best value and to guarantee entry. ・Children go half price of adult and under 5 years are free. ・Your summer ticket includes a multimedia guide. Prices for Summer Opening Advance On the day （subject to availability） Adult ￡40.00 ￡50.00 Young person（18-24） ￡25.00 ￡30.00 Child（5-17） ￡20.00 ￡25.00 Practical information for Summer Opening ・There is a timed admission system operating in 15 minute time slots. This is the time you select when purchasing your ticket. ・If you already have your ticket, for the best experience please arrive at the entry time printed on your ticket and not earlier. ・There is a lot to see and do during the Summer Opening of Buckingham Palace, so please allow enough time to make the most of your visit. We suggest between 2 and 2.5 hours. ・Animals, other than guide, hearing or assistance animals, will not be ① to the Palace. Exclusive Guided Tours and Family Guided Tours during winter and spring ・Exclusive Guided Tours are ￡110.00 per person. (18 and over) ・Family Guided Tours, designed specifically for families with young children, are ￡80.00 per person and under 5 years are free. ・The experience lasts around 1.5 hours and a guide book is included in the price of your visit. 29 Practical information for Exclusive Guided Tours and Family Guided Tours ・Prebooking tickets is essential. There is a timed admission system operating on all tours. This is the time you select when purchasing your ticket. ・You must arrive 30 minutes before the entry time printed on your ticket. ・Animals, other than guide, hearing or assistance animals, will not be ① to the Palace. ＊ State Rooms バッキンガム宮殿で、国賓や要人などのゲストをもてなす際に使用される部 屋。"
+    }
+  },
+  "17": {
+    "pregunta": "問17. 次の記述から、英文の内容に合致しているものだけをすべて選んでいるものはどれか。",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "18": {
+    "pregunta": "問18. バッキンガム宮殿の入場料金に関する次の記述から、英文の内容に合致しているものだけを",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "19": {
+    "pregunta": "問19. 英文の内容から判断して、本文中の",
+    "opciones": {
+      "b": "abused c. admitted",
+      "d": "appointed"
+    }
+  },
+  "20": {
+    "pregunta": "問20. 次の記述のうち、英文の内容に合致しているものをすべて選びなさい。",
+    "opciones": {
+      "b": "家族向けガイド付きツアーは、事前に予約をしなければならない。 c. 専属ガイド付きツアー及び家族向けガイド付きツアーは、入場時刻の 30 分前に入場口に到 着しなければならない。 30 第�問 次の英文はニュージーランドのフィヨルドランド国立公園にあるミルフォードサウンドのク ルーズツアーに関する案内（抜粋）である。これを読み、以下の問 21.から問 24.の各設問 について、該当するものをそれぞれの選択肢から一つ選び、解答用紙にマークしなさい。 （配点 �点×�） Milford Sound Cruise Tour: Cruise, Lunch & Return Transfers Highlights ・Take a relaxing coach ride from Queenstown, traveling through the picturesque Eglinton Valley and Mirror Lakes. ・Visit Fiordland National Park, recognized as a UNESCO World Heritage Site, with a local guide. Walk along nature trails and stop for photo ops around Eglinton Valley and Mirror Lakes. ・Admire the scenery from the spacious deck or the cabin on the glass-roofed boat in Milford Sound. Spot penguins and seals as you pass by waterfalls and cliffs. ・Experience a refreshing spray from glacial meltwater at the bow of the boat when near Stirling Falls. ・Upgrade to opt for a round-trip flight between Milford Sound and Queenstown. Enjoy aerial views of the Southern Alps, Lake Wakatipu, and the popular Routeburn Track. Inclusions ・Milford Sound cruise ・Hotel pick-up and drop-off ・Local driver/guide ・Lunch aboard the cruise ・Complimentary tea & coffee on-board ・Round-trip coach drive between Queenstown & Milford Sound ・1-hr 20-min round-trip flight between Queenstown & Milford Sound (based on option selected) ・Live commentary by pilot (based on option selected) Handy travel tips for your Milford Sound tour ・Milford Sound is renowned for its rainfall, so pack waterproof clothing and sturdy footwear. Consider a rain jacket with a hood, waterproof pants, and waterproof hiking boots to stay dry during potential drizzles. ・Dress in layers to adapt to changing weather conditions. Milford Sound can experience temperature variations, so having a combination of warm and breathable layers allows you to stay comfortable throughout the day. ・While Milford Sound experiences rainfall throughout the year, the tours generally operate in various weather conditions. In case of adverse weather, alternative arrangements may be made. 31 ・Flight tours and Milford Sound cruise tours are accessibility-friendly. ・Bring binoculars to enhance your wildlife-spotting experience during the cruise. Seals, dolphins, and penguins often make appearances, and binoculars allow you to appreciate these incredible creatures up close. ・Respect the natural environment by adhering to eco-friendly practices. ① from feeding wildlife, stay on designated trails during walks, and dispose of any waste responsibly to preserve the pristine beauty of Milford Sound for future generations."
+    }
+  },
+  "21": {
+    "pregunta": "問21. 次の記述から、英文の内容に合致しているものだけをすべて選んでいるものはどれか。",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "22": {
+    "pregunta": "問22. 次の記述から、英文の内容に合致しているものだけをすべて選んでいるものはどれか。",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "23": {
+    "pregunta": "問23. 次の記述から、英文の内容に合致しているものだけをすべて選んでいるものはどれか。",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "24": {
+    "pregunta": "問24. 英文の内容から判断して、本文中の",
+    "opciones": {
+      "b": "Far c. Refrain",
+      "d": "Suffer 32 第�問 以下の問 25.〜問 38.の各設問について、該当するものをそれぞれの選択肢から一つ選び、 解答用紙にマークしなさい。（地名等については、各国・地域の観光局等の公式ホームペー ジ、百科事典等を参考としている。） （配点 �点×14）"
+    }
+  },
+  "25": {
+    "pregunta": "問25. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "サンティアゴ デ コンポステーラ c. トレド",
+      "d": "ビルバオ"
+    }
+  },
+  "26": {
+    "pregunta": "問26. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "ハーグ c. ユトレヒト",
+      "d": "ロッテルダム"
+    }
+  },
+  "27": {
+    "pregunta": "問27. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "スペリオル湖 c. ヒューロン湖",
+      "d": "ミシガン湖"
+    }
+  },
+  "28": {
+    "pregunta": "問28. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "ダラス c. ニューオーリンズ",
+      "d": "メンフィス"
+    }
+  },
+  "29": {
+    "pregunta": "問29. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "昌徳宮 c. 宗廟",
+      "d": "徳寿宮 33"
+    }
+  },
+  "30": {
+    "pregunta": "問30. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "成都 c. 南京",
+      "d": "武漢"
+    }
+  },
+  "31": {
+    "pregunta": "問31. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "エレファンタ石窟群 c. エローラ石窟群",
+      "d": "カーンヘリー石窟群"
+    }
+  },
+  "32": {
+    "pregunta": "問32. 次の空欄に該当するものはどれか。",
+    "opciones": {
+      "b": "クスコ c. プーノ",
+      "d": "リマ 34"
+    }
+  },
+  "34": {
+    "pregunta": "問34. 次の下線部a.〜d.のうち、誤っているものはどれか。",
+    "opciones": {
+      "d": "ハナウマ湾などがある。"
+    }
+  },
+  "36": {
+    "pregunta": "問36. トルコの世界遺産に関する次の記述から、正しいものだけをすべて選んでいるものはどれ",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "37": {
+    "pregunta": "問37. オーストラリアに関する次の記述から、正しいものだけをすべて選んでいるものはどれか。",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ)"
+    }
+  },
+  "38": {
+    "pregunta": "問38. フランス パリに関する次の記述から、正しいものだけをすべて選んでいるものはどれか。",
+    "opciones": {
+      "b": "(ア) (ウ) c. (イ) (ウ)",
+      "d": "(ア) (イ) (ウ) 36 第�問 イタリアを周遊する募集型企画旅行の次の日程表（抜粋）に関する以下の問 39.〜問 41.の 各設問について、該当するものをそれぞれの選択肢から一つ選び、解答用紙にマークしなさ い。（地名等については、各国・地域の観光局等の公式ホームページ、百科事典等を参考と している。） （配点 �点×�） 行程 宿泊地 �日目 午前、専用バスでフィレンツェへ。 着後、フィレンツェ市内観光。 フィレンツェ泊 �日目 午前、専用バスで伝統的な競馬の祭り「パリオ」で有名な ① 観光へ。昼食後、聖フランチェスコの聖地 ② 観光へ。 観光後、ローマへ。 ローマ泊 �日目 終日、バチカン市国とローマ市内観光。 ローマ泊 [日程表]（抜粋） 観光内容（◎入場、○下車） フィレンツェ：◎大聖堂（ドゥオーモ）、◎ウフィツィ美術館、○ヴェッキオ橋、 ○シニョリーア広場、○ミケランジェロ広場 ① ：◎大聖堂（ドゥオーモ）、○カンポ広場、○プッブリコ宮殿 ② ：◎サン フランチェスコ聖堂、〇サンタ キアラ教会 バチカン市国：◎バチカン美術館、◎サン ピエトロ寺院 ローマ ：○コロッセオ、○トレヴィの泉、○スペイン広場 37"
+    }
+  },
+  "40": {
+    "pregunta": "問40. 日程表と観光内容から",
+    "opciones": {
+      "b": "シエナ − ペルージャ c. ピサ − アッシジ",
+      "d": "ピサ − ペルージャ"
+    }
+  },
+  "41": {
+    "pregunta": "問41. 日程表と観光内容に記載の通り観光ができた場合、入場観光する観光施設等では鑑賞するこ",
+    "opciones": {
+      "b": "「ピエタ」像（ミケランジェロ作） c. 「アテネの学堂」（ラファエロ作）",
+      "d": "「最後の晩餐」（レオナルド ダ ヴィンチ作） 38 第�問 以下の問 42.の設問について、該当するものを選択肢から一つ選び、問 43.〜問 44.の各設 問について、該当するものをそれぞれの選択肢からすべて選び、解答用紙にマークしなさ い。（地名等については、各国・地域の観光局等の公式ホームページ、百科事典等を参考と している。） （配点 �点×�）"
+    }
+  },
+  "42": {
+    "pregunta": "問42. 次の国とその国にあるオーロラの観測地として知られている都市との組合せのうち、誤って",
+    "opciones": {
+      "b": "カナダ − イエローナイフ c. スウェーデン − トロムソ",
+      "d": "フィンランド − ロヴァニエミ"
+    }
+  },
+  "43": {
+    "pregunta": "問43. 次の国とその国に属する島及びその島にあるビーチとの組合せのうち、正しいものをすべて",
+    "opciones": {
+      "b": "フィリピン − ボラカイ島 − クタ ビーチ c. マレーシア − ペナン島 − バトゥ フェリンギ"
+    }
+  },
+  "44": {
+    "pregunta": "問44. 次の絵画作品とその作品が収蔵されている施設との組合せのうち、正しいものをすべて選び",
+    "opciones": {
+      "b": "「接吻」（クリムト） − オーストリア絵画館＜ベルヴェデーレ宮殿上宮＞（ウィーン） c. 「晩鐘」（ミレー） − オルセー美術館（パリ） 39 第10問 以下の問 45.〜問 49.の各設問について、該当するものをそれぞれの選択肢から一つ選び、"
+    }
+  },
+  "45": {
+    "pregunta": "問45. 次の組合せのうち、都市（A）が 2024 年 10 月 28 日（月）13 時（午後 1 時）のとき、",
+    "opciones": {
+      "b": "リスボン（LIS） − ホーチミン（SGN） 10 月 28 日 20 時（午後�時） c. フェニックス（PHX）− 上海（SHA） 10 月 29 日�時（午前�時）",
+      "d": "ダーウィン（DRW） − ナイロビ（NBO） 10 月 28 日�時 30 分（午前�時 30 分）"
+    }
+  },
+  "46": {
+    "pregunta": "問46. 2024 年 10 月 29 日（火）に東京（TYO）を AA0168 便で出発し、途中ニューヨーク",
+    "opciones": {
+      "b": "13 時間 05 分 − �時間 46 分 c. 14 時間 05 分 − �時間 46 分",
+      "d": "14 時間 05 分 − �時間 46 分"
+    }
+  },
+  "47": {
+    "pregunta": "問47. 次のヨーロッパ各国のシェンゲン協定加盟状況とその国の通貨との組合せのうち、誤ってい",
+    "opciones": {
+      "b": "ギリシア − 加盟 − ユーロ c. ノルウェー − 加盟 − クローネ",
+      "d": "ハンガリー − 非加盟 − フォリント 40"
+    }
+  },
+  "48": {
+    "pregunta": "問48. 25 歳の日本国籍を有する者の海外の出入国に関する次の記述のうち、誤っているものはど",
+    "opciones": {
+      "b": "日本から国際線航空機を利用してロサンゼルス（LAX）で乗り継ぎ、マイアミ（MIA）に 行く場合、アメリカ合衆国の入国審査及び税関検査は、ロサンゼルス（LAX）で行われる。 c. オーストラリアの電子渡航許可（ETA：Electronic Travel Authority）は、有効期間内で要 件を満たせば複数回訪問することも可能であるが、観光目的で入国する場合の�回の滞在期 間は、最長で�か月である。",
+      "d": "ア メ リ カ 合 衆 国 の 電 子 渡 航 認 証 シ ス テ ム（ESTA：Electronic System for Travel Authorization）でアメリカ合衆国に入国し、その滞在中に ESTA が失効する場合であって も、新たに ESTA を申請する必要はない。"
+    }
+  },
+  "49": {
+    "pregunta": "問49. クルーズ又は鉄道に関する次の記述のうち、誤っているものはどれか。",
+    "opciones": {
+      "b": "「ガラ パーティー」とは、クルーズ中に開かれる華やかで盛大なパーティーのことをいう。 c. 「ベルニナエクスプレス」は、ツェルマットとサンモリッツの間を結ぶスイスの鉄道を代表 する観光列車である。",
+      "d": "「カナディアン号」は、カナダの大平原を走行し、ロッキー山脈を越える大陸横断鉄道で、 トロントとバンクーバーの間を結ぶ列車である。 41"
+    }
+  },
+  "50": {
+    "pregunta": "問50. 次の国と名物料理との組合せのうち、当該国の名物料理として正しい組合せをすべて選びな",
+    "opciones": {
+      "b": "ベトナム − バインミー c. メキシコ − タコス"
+    }
+  },
+  "51": {
+    "pregunta": "問51. 次の都市と都市コード及びその都市の空港コードとの組合せのうち、正しい組合せをすべて",
+    "opciones": {
+      "b": "ミラノ（イタリア） − MIL − FCO c. ソウル（韓国） − SEL − GMP"
+    }
+  },
+  "52": {
+    "pregunta": "問52. 次のアライアンス（航空連合）と航空会社コードとの組合せのうち、航空会社コード①及び",
+    "opciones": {
+      "b": "SkyTeam − AM − AZ c. Star Alliance − OS − OZ 42"
+    }
+  }
+}

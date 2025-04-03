@@ -1,3 +1,3 @@
-# Aplicación de Examen para 総合旅行業務取扱管理者
+# 総合旅行業務取扱管理者 - Examen App
 
-Esta aplicación permite practicar preguntas del examen con retroalimentación inmediata.
+Este proyecto permite practicar el examen con feedback inmediato en japonés.

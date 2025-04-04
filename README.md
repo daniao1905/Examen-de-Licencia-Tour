@@ -1,0 +1,1 @@
+Versión sin furigana, con retroalimentación.

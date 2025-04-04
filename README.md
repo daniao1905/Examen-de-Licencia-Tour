@@ -1,3 +1,3 @@
 # R06 国内旅行業務 App
 
-Simulador con retroalimentación instantánea.
+Simulador con selección múltiple y verificación.

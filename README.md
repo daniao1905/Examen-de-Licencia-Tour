@@ -1,3 +1,3 @@
-# 総合旅行業務取扱管理者 - Examen App
+# R06 国内旅行業務 App
 
-Este proyecto permite practicar el examen con feedback inmediato en japonés.
+Simulador con retroalimentación instantánea.
